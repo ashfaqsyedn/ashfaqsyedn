@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi there!, I am <a href="https://github.com/ashfaqsyedn">Syed Ashfaq</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"> <br> <img align="center" alt="visitors" src="https://gpvc.arturio.dev/ashfaqsyedn"/></h1> 
+<h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi there!, I am <a href="https://github.com/ashfaqsyedn">Syed Ashfaq</a> <br> <img align="center" alt="visitors" src="https://gpvc.arturio.dev/ashfaqsyedn"/></h1> 
 </h1>
 
 Find me at
