@@ -34,6 +34,6 @@ Skill Zone
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Terraform-lightblue?style=for-the-badge&logo=terraform&logoColor=purple" /> <img src="https://img.shields.io/badge/Ansible-white?style=for-the-badge&logo=ansible&logoColor=black" />  <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white"/> <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/> <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Terraform-lightblue?style=for-the-badge&logo=terraform&logoColor=purple" /> <img src="https://img.shields.io/badge/Ansible-white?style=for-the-badge&logo=ansible&logoColor=black" />  <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white"/> <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/> <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white"/> <img src="https://img.shields.io/badge/Neo4j-Blue"/>
 </p>
 
